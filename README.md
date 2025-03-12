@@ -1,3 +1,5 @@
-<h1> Sistema de Registro </h1>
+
+<em> Primer título </em>  
+<h1 align = "center"> Sistema de Registro </h1> 
 
 - Estado del proyecto: En construcción. - 
